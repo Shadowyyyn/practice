@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fenbcn\\Documents\\Study\\\u0423\u041F.03\\test_DataBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC1E675-538E-495E-91BC-7934A9839B9A}|test_DataBase\\test_DataBase.csproj|C:\\Users\\fenbcn\\Documents\\Study\\\u0423\u041F.03\\test_DataBase\\test_database\\pages\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC1E675-538E-495E-91BC-7934A9839B9A}|test_DataBase\\test_DataBase.csproj|solutionrelative:test_database\\pages\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC1E675-538E-495E-91BC-7934A9839B9A}|test_DataBase\\test_DataBase.csproj|c:\\users\\fenbcn\\documents\\study\\\u0443\u043F.03\\test_database\\test_database\\pages\\log_in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC1E675-538E-495E-91BC-7934A9839B9A}|test_DataBase\\test_DataBase.csproj|solutionrelative:test_database\\pages\\log_in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC1E675-538E-495E-91BC-7934A9839B9A}|test_DataBase\\test_DataBase.csproj|C:\\Users\\fenbcn\\Documents\\Study\\\u0423\u041F.03\\test_DataBase\\test_database\\checkuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC1E675-538E-495E-91BC-7934A9839B9A}|test_DataBase\\test_DataBase.csproj|solutionrelative:test_database\\checkuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC1E675-538E-495E-91BC-7934A9839B9A}|test_DataBase\\test_DataBase.csproj|C:\\Users\\fenbcn\\Documents\\Study\\\u0423\u041F.03\\test_DataBase\\test_database\\pages\\sign_up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC1E675-538E-495E-91BC-7934A9839B9A}|test_DataBase\\test_DataBase.csproj|solutionrelative:test_database\\pages\\sign_up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC1E675-538E-495E-91BC-7934A9839B9A}|test_DataBase\\test_DataBase.csproj|C:\\Users\\fenbcn\\Documents\\Study\\\u0423\u041F.03\\test_DataBase\\test_database\\pages\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FC1E675-538E-495E-91BC-7934A9839B9A}|test_DataBase\\test_DataBase.csproj|solutionrelative:test_database\\pages\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC1E675-538E-495E-91BC-7934A9839B9A}|test_DataBase\\test_DataBase.csproj|C:\\Users\\fenbcn\\Documents\\Study\\\u0423\u041F.03\\test_DataBase\\test_database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC1E675-538E-495E-91BC-7934A9839B9A}|test_DataBase\\test_DataBase.csproj|solutionrelative:test_database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC1E675-538E-495E-91BC-7934A9839B9A}|test_DataBase\\test_DataBase.csproj|C:\\Users\\fenbcn\\Documents\\Study\\\u0423\u041F.03\\test_DataBase\\test_database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC1E675-538E-495E-91BC-7934A9839B9A}|test_DataBase\\test_DataBase.csproj|solutionrelative:test_database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "checkUser.cs",
+              "DocumentMoniker": "C:\\Users\\fenbcn\\Documents\\Study\\\u0423\u041F.03\\test_DataBase\\test_DataBase\\checkUser.cs",
+              "RelativeDocumentMoniker": "test_DataBase\\checkUser.cs",
+              "ToolTip": "C:\\Users\\fenbcn\\Documents\\Study\\\u0423\u041F.03\\test_DataBase\\test_DataBase\\checkUser.cs",
+              "RelativeToolTip": "test_DataBase\\checkUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:27:55.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fenbcn\\Documents\\Study\\\u0423\u041F.03\\test_DataBase\\test_DataBase\\Pages\\Form1.cs",
+              "RelativeDocumentMoniker": "test_DataBase\\Pages\\Form1.cs",
+              "ToolTip": "C:\\Users\\fenbcn\\Documents\\Study\\\u0423\u041F.03\\test_DataBase\\test_DataBase\\Pages\\Form1.cs",
+              "RelativeToolTip": "test_DataBase\\Pages\\Form1.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAAJMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T07:11:09.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fenbcn\\Documents\\Study\\\u0423\u041F.03\\test_DataBase\\test_DataBase\\Pages\\Form1.cs",
+              "RelativeDocumentMoniker": "test_DataBase\\Pages\\Form1.cs",
+              "ToolTip": "C:\\Users\\fenbcn\\Documents\\Study\\\u0423\u041F.03\\test_DataBase\\test_DataBase\\Pages\\Form1.cs [Design]",
+              "RelativeToolTip": "test_DataBase\\Pages\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T05:54:50.19Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sign_up.cs",
+              "DocumentMoniker": "C:\\Users\\fenbcn\\Documents\\Study\\\u0423\u041F.03\\test_DataBase\\test_DataBase\\Pages\\sign_up.cs",
+              "RelativeDocumentMoniker": "test_DataBase\\Pages\\sign_up.cs",
+              "ToolTip": "C:\\Users\\fenbcn\\Documents\\Study\\\u0423\u041F.03\\test_DataBase\\test_DataBase\\Pages\\sign_up.cs",
+              "RelativeToolTip": "test_DataBase\\Pages\\sign_up.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADcAAACoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T16:19:24.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "log_in.cs",
+              "DocumentMoniker": "C:\\Users\\fenbcn\\Documents\\Study\\\u0423\u041F.03\\test_DataBase\\test_DataBase\\Pages\\log_in.cs",
+              "RelativeDocumentMoniker": "test_DataBase\\Pages\\log_in.cs",
+              "ToolTip": "C:\\Users\\fenbcn\\Documents\\Study\\\u0423\u041F.03\\test_DataBase\\test_DataBase\\Pages\\log_in.cs",
+              "RelativeToolTip": "test_DataBase\\Pages\\log_in.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T15:49:22.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fenbcn\\Documents\\Study\\\u0423\u041F.03\\test_DataBase\\test_DataBase\\Program.cs",
+              "RelativeDocumentMoniker": "test_DataBase\\Program.cs",
+              "ToolTip": "C:\\Users\\fenbcn\\Documents\\Study\\\u0423\u041F.03\\test_DataBase\\test_DataBase\\Program.cs",
+              "RelativeToolTip": "test_DataBase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T16:01:16.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\fenbcn\\Documents\\Study\\\u0423\u041F.03\\test_DataBase\\test_DataBase\\DataBase.cs",
+              "RelativeDocumentMoniker": "test_DataBase\\DataBase.cs",
+              "ToolTip": "C:\\Users\\fenbcn\\Documents\\Study\\\u0423\u041F.03\\test_DataBase\\test_DataBase\\DataBase.cs",
+              "RelativeToolTip": "test_DataBase\\DataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T15:14:48.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
